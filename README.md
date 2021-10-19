@@ -12,7 +12,9 @@
 >> ## 內容：    
 
 ---
+# 分工：   
 
+---
 # 甘特圖
 ![甘特圖](甘特圖.jpg)   
 [甘特圖](https://hackmd.io/@isLy0nG2SxyJIpSQVodlwA/BJr2Os9HY)
