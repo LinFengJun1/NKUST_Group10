@@ -14,4 +14,4 @@
 [甘特圖](https://hackmd.io/@isLy0nG2SxyJIpSQVodlwA/BJr2Os9HY)
 
 # PERT/CPM圖
-![PERT](PERT-CPM.png)
+![PERT](PERT-CPM.PNG)
