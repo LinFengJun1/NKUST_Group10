@@ -53,7 +53,8 @@
 
 ---   
 
-## DFD圖
+## DFD圖   
+![DFD圖](DFD圖.jpg) 
 
 ## DFD圖0
 
